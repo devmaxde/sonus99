@@ -1,4 +1,4 @@
-package com.example.sonus99
+package com.devmax.sonus99
 
 import io.flutter.embedding.android.FlutterActivity
 
